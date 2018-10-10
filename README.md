@@ -1,0 +1,1 @@
+### activerecord-postgis-adapter
